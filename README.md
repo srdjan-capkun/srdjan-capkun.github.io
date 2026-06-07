@@ -38,9 +38,9 @@ How to pronounce <a href="https://forvo.com/word/sr%C4%91an/">Srđan/Srdjan</a>
 I lead the [**System Security Group**](https://syssec.ethz.ch/) at ETH Zurich. I am lucky to have been able to work with some exceptional [PhD students and postdoctoral researchers](https://syssec.ethz.ch/people/).
 
 ---
+[Complete list of publications with pdfs](https://syssec.ethz.ch/publications/) 
 
 ## Selected Recent Publications
-[Complete list of publications with pdfs](https://syssec.ethz.ch/publications/) 
 
 * Daniele Coppola, Arslan Mumtaz, Giovanni Camurati, Harshad Sathaye, Mridula Singh, Srdjan Capkun
 LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites
