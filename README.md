@@ -101,6 +101,8 @@ Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measu
 * [My two best papers](2_best_papers.jpg)
 
 ---
+## Selected Lectures
+
 * Strachey Lecture, Oxford University
 Hardening Digital Infrastructure: Two Examples (On Sovereign Smartphones and Secure Positioning). 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
