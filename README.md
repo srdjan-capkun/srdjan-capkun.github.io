@@ -13,7 +13,7 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-bottom: 40px;">
   
-  <img src="profile.jpg" alt="Srdjan Capkun" style="width: 220px; border-radius: 8px; flex-shrink: 0;">
+  <img src="profile.jpg" alt="Srdjan Capkun" style="width: 250px; border-radius: 8px; flex-shrink: 0;">
   
   <div style="flex: 1; min-width: 280px;">
     <h2>Srdjan Capkun</h2>
