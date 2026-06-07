@@ -27,7 +27,8 @@
     <p><strong>Email:</strong> srdjan.capkun@inf.ethz.ch</p>
   </div>
 
-How to pronounce [Srđan](https://forvo.com/word/sr%C4%91an/)
+How to pronounce <a href="https://forvo.com/word/sr%C4%91an/">Srđan/Srdjan</a>
+<br>
 </div>
 
 ---
