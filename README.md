@@ -30,7 +30,7 @@
 ---
 
 ## Research
-I lead the **System Security Group** at ETH Zurich. We focus on building secure and privacy-preserving systems, ranging from wireless infrastructure to blockchain technologies. 
+I am lucky to be able to work with some exceptional students and postdoctoral researchers [former students and postdocs](https://syssec.ethz.ch/people/). I lead the **System Security Group** at ETH Zurich. 
 *   [Visit our group website here](https://syssec.ethz.ch/)
 
 ---
