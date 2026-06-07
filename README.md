@@ -21,10 +21,10 @@
     <p>Srdjan Capkun (Srđan Čapkun) is a Full Professor in the Department of Computer Science at ETH Zurich, where he also serves as Associate Vice President for Digital Transformation and Governance and Chair of the Zurich Information Security and Privacy Center (ZISC). Originally from Split, Croatia, he received his Dipl. Ing. degree in Electrical Engineering / Computer Science from the University of Split in 1998, and his Ph.D. in Communication Systems from EPFL in 2004. His research focuses on system and network security, with a particular emphasis on wireless security (specifically secure positioning), trusted computing, and distributed ledgers. In 2016, he was awarded an ERC Consolidator Grant to secure positioning in wireless networks. He is a Fellow of the ACM and of the IEEE. Alongside his academic research, his work has successfully translated into the industry sector; he is a co-founder of several security-focused companies, including Soverli (building sovereign smartphone architectures), Futurae, and 3db Access (a UWB secure ranging company acquired by Infineon).
 </p>
 
-    <p><strong>Email:</strong> srdjan.capkun@inf.ethz.ch<br>
-    <strong>Office:</strong> CNB F 102.2, Universitätstrasse 6, 8092 Zürich</p>
+    <p><strong>Email:</strong> srdjan.capkun@inf.ethz.ch</p>
   </div>
 
+* [How to pronounce [Srđan](https://forvo.com/word/sr%C4%91an/) (Srdjan)]
 </div>
 
 ---
@@ -101,3 +101,8 @@ Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measu
 *   **Chair:** Zurich Information Security and Privacy Center (ZISC)
 *   **Fellow:** IEEE Fellow (Class of 2023)
 *   **Grants:** ERC Consolidator Grant for secure positioning in wireless networks
+
+
+  This is a personal site; the postings on this site are my own and do not necessarily reflect the views of my employer.
+
+
