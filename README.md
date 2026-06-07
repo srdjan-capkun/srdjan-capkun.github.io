@@ -96,15 +96,13 @@ Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measu
 * [My two best papers](2_best_papers.jpg)
 
 ---
-
-<iframe title="Hardening Digital Infrastructure: Two Examples" width="640" height="400" frameborder="0" scrolling="off" marginheight="0" marginwidth="0" src="https://podcasts.ox.ac.uk/embed/78f82831-361c-42cb-8370-a5cffd05b2d1" allowfullscreen msallowfullscreen allow="fullscreen"></iframe>
-
-
+* Strachey Lecture, Oxford University
+Hardening Digital Infrastructure: Two Examples (On Sovereign Smartphones and Secure Positioning). 
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe src="https://podcasts.ox.ac.uk/embed/78f82831-361c-42cb-8370-a5cffd05b2d1" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
 
-
+* ZISC 20 years.
 <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
   <iframe src="https://www.youtube.com/embed/J9eGfCkZGYo" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" frameborder="0" allowfullscreen></iframe>
 </div>
