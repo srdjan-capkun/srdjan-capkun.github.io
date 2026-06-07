@@ -10,10 +10,10 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-bottom: 40px;">
   
-  <img src="https://inf.ethz.ch/people/person-detail.srdjancapkun.html/image.jpg" alt="Prof. Dr. Srdjan Capkun" style="width: 220px; border-radius: 8px; flex-shrink: 0;">
+  <img src="profile.jpg" alt="Srdjan Capkun" style="width: 220px; border-radius: 8px; flex-shrink: 0;">
   
   <div style="flex: 1; min-width: 280px;">
-    <h1>Prof. Dr. Srdjan Capkun</h1>
+    <h1>Srdjan Capkun</h1>
     <p><strong>Full Professor</strong><br>
     <a href="https://inf.ethz.ch/">Department of Computer Science, ETH Zurich</a><br>
     Zürich, Switzerland</p>
