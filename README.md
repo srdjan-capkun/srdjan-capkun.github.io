@@ -1,3 +1,13 @@
+<style>
+  header { 
+    display: none !important; 
+  }
+  section { 
+    width: 100% !important; 
+    max-width: 1000px !important; 
+  }
+</style>
+
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-bottom: 40px;">
   
   <img src="https://inf.ethz.ch/people/person-detail.srdjancapkun.html/image.jpg" alt="Prof. Dr. Srdjan Capkun" style="width: 220px; border-radius: 8px; flex-shrink: 0;">
