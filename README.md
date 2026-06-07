@@ -95,14 +95,11 @@ Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measu
 
 ---
 
+
+
+---
+
 * [My two best papers](2_best_papers.jpg)
-
-## Professional Service & Roles
-*   **Associate Vice President:** Digital Transformation and Governance (ETH Zurich, 2026–2028)
-*   **Chair:** Zurich Information Security and Privacy Center (ZISC)
-*   **Fellow:** IEEE Fellow (Class of 2023)
-*   **Grants:** ERC Consolidator Grant for secure positioning in wireless networks
-
 
   This is a personal site; the postings on this site are my own and do not necessarily reflect the views of my employer.
 
