@@ -30,8 +30,7 @@
 ---
 
 ## Research
-I am lucky to be able to work with some exceptional students and postdoctoral researchers [former students and postdocs](https://syssec.ethz.ch/people/). I lead the **System Security Group** at ETH Zurich. 
-*   [Visit our group website here](https://syssec.ethz.ch/)
+I lead the [**System Security Group**](https://syssec.ethz.ch/) at ETH Zurich. I am lucky to have been able to work with some exceptional [PhD students and postdoctoral researchers](https://syssec.ethz.ch/people/).
 
 ---
 
