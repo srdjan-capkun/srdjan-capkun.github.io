@@ -70,7 +70,7 @@ Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Priva
 * Patrick Leu, Giovanni Camurati*, Alexander Heinrich, Marc Roeschlin, Claudio Anliker, Matthias Hollick, Srdjan Capkun, and Jiska Classen
 Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging
 in USENIX Security 2022
-https://securepositioning.com/ghost-​peak/  
+https://securepositioning.com/ghost-​peak/
 
 * Friederike Groschupp, Moritz Schneider, Ivan Puddu, Shweta Shinde, Srdjan Čapkun
 Sovereign Smartphone: To Enjoy Freedom We Have to Control Our Phones
