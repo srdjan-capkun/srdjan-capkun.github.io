@@ -106,6 +106,6 @@ Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measu
 
   This is a personal site; the postings on this site are my own and do not necessarily reflect the views of my employer.
 
-<img src="dalmatinac.webp" flex-shrink: 0;">
+<img src="dalmatinac.webp" flex-shrink: 0>
 
 
