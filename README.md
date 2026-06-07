@@ -2,6 +2,9 @@
   header { 
     display: none !important; 
   }
+  footer { 
+    display: none !important; 
+         }
   section { 
     width: 100% !important; 
     max-width: 1000px !important; 
