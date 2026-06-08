@@ -42,61 +42,66 @@ I lead the [**System Security Group**](https://syssec.ethz.ch/) at ETH Zurich. I
 
 ## Selected Recent Publications
 
-* Daniele Coppola, Arslan Mumtaz, Giovanni Camurati, Harshad Sathaye, Mridula Singh, Srdjan Capkun
-LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites
+* Daniele Coppola, Arslan Mumtaz, Giovanni Camurati, Harshad Sathaye, Mridula Singh, Srdjan Capkun <br>
+LEO-Range: Physical Layer Design for Secure Ranging with Low Earth Orbiting Satellites <br>
 in Usenix Security 2025
 
-* Ivan Puddu, Moritz Schneider, Daniele Lain, Stefano Boschetto, Srdjan Capkun
-On (the Lack of) Code Confidentiality in Trusted Execution Environments Authors: in IEEE S&P 2024
+* Ivan Puddu, Moritz Schneider, Daniele Lain, Stefano Boschetto, Srdjan Capkun <br>
+On (the Lack of) Code Confidentiality in Trusted Execution Environments <br> 
+in IEEE S&P 2024
 
-* Daniele Coppola, Giovanni Camurati, Claudio Anliker, Xenia Hofmeier, Patrick Schaller, David Basin, Srdjan Capkun
-PURE: Payments with UWB RElay-protection,
+* Daniele Coppola, Giovanni Camurati, Claudio Anliker, Xenia Hofmeier, Patrick Schaller, David Basin, Srdjan Capkun <br>
+PURE: Payments with UWB RElay-protection, <br>
 in Usenix Security 2024
 
-* Claudio Anliker, Giovanni Camurati, Srdjan Čapkun
-Time for Change: How Clocks Break UWB Secure Ranging
+* Claudio Anliker, Giovanni Camurati, Srdjan Čapkun <br>
+Time for Change: How Clocks Break UWB Secure Ranging <br>
 in Usenix Security 2023
 
-* Daniele Lain, Kari Kostiainen, Srdjan Čapkun
-Phishing in Organizations: Findings from a Large-Scale and Long-Term Study
+* Daniele Lain, Kari Kostiainen, Srdjan Čapkun <br>
+Phishing in Organizations: Findings from a Large-Scale and Long-Term Study <br>
 in IEEE Symposium on Security and Privacy (S&P), 2022
 
-* Friederike Groschupp, Mark Kuhne, Moritz Schneider, Ivan Puddu, Shweta Shinde, Srdjan Capkun
-It’s TEEtime: Bringing User Sovereignty to Smartphones
+* Friederike Groschupp, Mark Kuhne, Moritz Schneider, Ivan Puddu, Shweta Shinde, Srdjan Capkun <br>
+It’s TEEtime: Bringing User Sovereignty to Smartphones <br>
 [Sovereign Smartphone](https://sovereign-smartphone.github.io/) 
 
-* Martin Kotuliak, Simon Erni, Patrick Leu, Marc Röschlin, Srdjan Čapkun
-LTrack: Stealthy Tracking of Mobile Phones in LTE
+* Martin Kotuliak, Simon Erni, Patrick Leu, Marc Röschlin, Srdjan Čapkun <br>
+LTrack: Stealthy Tracking of Mobile Phones in LTE <br>
 in USENIX Security 2022 
 
-* Karl Wüst, Kari Kostiainen, Noah Delius, Srdjan Capkun
-Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy Preserving Regulation, In ACM Conference on Computer and Communications Security (CCS), 2022
+* Karl Wüst, Kari Kostiainen, Noah Delius, Srdjan Capkun <br>
+Platypus: A Central Bank Digital Currency with Unlinkable Transactions and Privacy Preserving Regulation <br>
+In ACM Conference on Computer and Communications Security (CCS), 2022
 
-* Patrick Leu, Giovanni Camurati*, Alexander Heinrich, Marc Roeschlin, Claudio Anliker, Matthias Hollick, Srdjan Capkun, and Jiska Classen
-Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging
-in USENIX Security 2022
+* Patrick Leu, Giovanni Camurati*, Alexander Heinrich, Marc Roeschlin, Claudio Anliker, Matthias Hollick, Srdjan Capkun, and Jiska Classen <br>
+Ghost Peak: Practical Distance Reduction Attacks Against HRP UWB Ranging <br>
+in USENIX Security 2022 <br>
 https://securepositioning.com/ghost-​peak/
 
-* Friederike Groschupp, Moritz Schneider, Ivan Puddu, Shweta Shinde, Srdjan Čapkun
-Sovereign Smartphone: To Enjoy Freedom We Have to Control Our Phones
+* Friederike Groschupp, Moritz Schneider, Ivan Puddu, Shweta Shinde, Srdjan Čapkun <br>
+Sovereign Smartphone: To Enjoy Freedom We Have to Control Our Phones <br>
 in Arxiv e-​print (arXiv:2102.02743), 2021
 
-* Ivan Puddu, Moritz Schneider, Miro Haller, Srdjan Čapkun
-Frontal Attack: Leaking Control-​Flow in SGX via the CPU Frontend
+* Ivan Puddu, Moritz Schneider, Miro Haller, Srdjan Čapkun <br>
+Frontal Attack: Leaking Control-​Flow in SGX via the CPU Frontend <br>
 in USENIX Security 2021 
 
-* Enis Ulqinaku and Hala Assal and AbdelRahman Abdou and Sonia Chiasson and Srdjan Čapkun
-Is Real-​time Phishing Eliminated with FIDO? Social Engineering Downgrade Attacks against FIDO Protocols, in Usenix Security 2021 
+* Enis Ulqinaku and Hala Assal and AbdelRahman Abdou and Sonia Chiasson and Srdjan Čapkun <br>
+Is Real-​time Phishing Eliminated with FIDO? Social Engineering Downgrade Attacks against FIDO Protocols, <br>
+in Usenix Security 2021 
 
-* Decentralized Privacy-​Preserving Proximity Tracing. 
-Carmela Troncoso, Mathias Payer, Jean-​Pierre Hubaux, Marcel Salathé, James Larus, Edouard Bugnion, Wouter Lueks, Theresa Stadler, Apostolos Pyrgelis, Daniele Antonioli, Ludovic Barman, Sylvain Chatel, Kenneth Paterson, Srdjan Capkun, David Basin, Jan Beutel, Dennis Jackson, Marc Roeschlin, Patrick Leu, Bart Preneel, Nigel Smart, Aysajan Abidin, Seda Gürses, Michael Veale, Cas Cremers, Michael Backes, Nils Ole Tippenhauer, Reuben Binns, Ciro Cattuto, Alain Barrat, Dario Fiore, Manuel Barbosa, Rui Oliveira, José Pereira.
+* Decentralized Privacy-​Preserving Proximity Tracing <br>
+Carmela Troncoso, Mathias Payer, Jean-​Pierre Hubaux, Marcel Salathé, James Larus, Edouard Bugnion, Wouter Lueks, Theresa Stadler, Apostolos Pyrgelis, Daniele Antonioli, Ludovic Barman, Sylvain Chatel, Kenneth Paterson, Srdjan Capkun, David Basin, Jan Beutel, Dennis Jackson, Marc Roeschlin, Patrick Leu, Bart Preneel, Nigel Smart, Aysajan Abidin, Seda Gürses, Michael Veale, Cas Cremers, Michael Backes, Nils Ole Tippenhauer, Reuben Binns, Ciro Cattuto, Alain Barrat, Dario Fiore, Manuel Barbosa, Rui Oliveira, José Pereira. <br>
 in arXiv, 2020 
 
-* Design choices for central bank digital currency: Policy and technical considerations
-Sarah Allen, Srdjan Capkun, Ittay Eyal, Giulia Fanti, Bryan Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst, and Fan Zhang, in Brookings/NBER, Working Paper, July, 2020 
+* Design choices for central bank digital currency: Policy and technical considerations <br>
+Sarah Allen, Srdjan Capkun, Ittay Eyal, Giulia Fanti, Bryan Ford, James Grimmelmann, Ari Juels, Kari Kostiainen, Sarah Meiklejohn, Andrew Miller, Eswar Prasad, Karl Wüst, and Fan Zhang, <br>
+in Brookings/NBER, Working Paper, July, 2020 
 
-* Patrick Leu, Mridula Singh, Marc Roeschlin, Kenneth G. Paterson, Srdjan Capkun
-Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement, in IEEE Symposium on Security and Privacy (S&P), 2020 
+* Patrick Leu, Mridula Singh, Marc Roeschlin, Kenneth G. Paterson, Srdjan Capkun <br>
+Message Time of Arrival Codes: A Fundamental Primitive for Secure Distance Measurement, <br>
+in IEEE Symposium on Security and Privacy (S&P), 2020 
 
 * [My two best papers](2_best_papers.jpg)
 
