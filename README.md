@@ -16,7 +16,7 @@
   <img src="profile.jpg" alt="Srdjan Capkun" style="width: 250px; border-radius: 8px; flex-shrink: 0;">
   
   <div style="flex: 1; min-width: 280px;">
-    <p><strong>SRÐAN ČAPKUN</strong></p>
+    <p><strong>Srđan Čapkun</strong></p>
     <p>Professor<br>
     <a href="https://inf.ethz.ch/">Department of Computer Science, ETH Zurich</a><br>
     Zürich, Switzerland</p>
