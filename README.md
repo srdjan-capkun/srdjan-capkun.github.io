@@ -35,7 +35,7 @@ How to pronounce <a href="https://forvo.com/word/sr%C4%91an/">Srđan/Srdjan</a>
 ---
 
 ## Research
-I lead the [**System Security Group**](https://syssec.ethz.ch/) at ETH Zurich. I am lucky to have been able to work with some exceptional [PhD students and postdoctoral researchers](https://syssec.ethz.ch/people/).
+I lead the [**System Security Group**](https://syssec.ethz.ch/) at ETH Zurich and I am lucky to have been able to work with some exceptional [PhD students and postdoctoral researchers](https://syssec.ethz.ch/people/).
 
 ---
 [Complete list of publications with pdfs](https://syssec.ethz.ch/publications/) 
